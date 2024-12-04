@@ -1,0 +1,43 @@
+  body {
+    background-image: url('https://images.deepai.org/art-image/498f0b6ba6494c2cbe4ba93cb5d3e2c0/a-graphic-image-of-a-man-holding-a-time-capsu_Od0LeE0.jpg');
+    background-position: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .container {
+    opacity: 0.9;
+    width: 500px;
+    max-width: 100%;
+    background-color: grey;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 2px;
+  }
+  
+  .btn-grid {
+    display: grid;
+    gap:    5px;
+    margin-top: 20px;
+  }
+  
+  .btn {
+    background-color: rgb(4, 51, 82);
+    border: 1px black solid;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: white;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    border-color: black;
+  }
