@@ -1,5 +1,18 @@
-  body {
-    background-image: url('https://images.deepai.org/art-image/498f0b6ba6494c2cbe4ba93cb5d3e2c0/a-graphic-image-of-a-man-holding-a-time-capsu_Od0LeE0.jpg');
+.title {
+    font-size: 36px;
+    color: black;
+    text-align: center;
+    display: flexbox;
+    font-family: 'Arial', sans-serif;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 5px;
+    background-color: lightslategray;
+    opacity: 0.9;
+}
+
+body {
+    background-image: url('https://api.deepai.org/job-view-file/1658823f-57e9-495f-9f22-30aef857cfec/outputs/output.jpg?art-image=true');
     background-position: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0;
@@ -13,10 +26,10 @@
   
   .container {
     opacity: 0.9;
-    width: 500px;
+    width: 600px;
     max-width: 100%;
-    background-color: grey;
-    padding: 20px;
+    background-color: lightslategray;
+    padding: 10px;
     border-radius: 5px;
     box-shadow: 0 0 10px 2px;
   }
@@ -30,7 +43,7 @@
   .btn {
     background-color: rgb(4, 51, 82);
     border: 1px black solid;
-    font-weight: bold;
+    font-weight: bold ;
     border-radius: 5px;
     padding: 5px 10px;
     color: white;
