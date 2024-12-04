@@ -2,7 +2,8 @@
 This project is an interactive text-based adventure game where players explore the ruins of an ancient city and make choices that affect the storyline, leading them through time travel and encounters with various characters and events.
 
 ## How to play.
-- Start the Game.
+- Start the Game. 
+[The Adventure Game](https://amyrbakhsh.github.io/the-adventure-game/)
 - Make Choices: Read the text and click on the buttons to make choices. Each choice leads to different outcomes and advances the story.
 - Explore Outcomes: Experience different storylines and endings based on your choices.
 
